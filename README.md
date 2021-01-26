@@ -5,5 +5,5 @@
 3. git init
 4. git remote add origin https://github.com/Nushaine/space-invaders.git
 5. git pull origin master
-<you should see files loading in>
+5.5 *the files should be loading in* 
 6. python spaceinvaders.py
